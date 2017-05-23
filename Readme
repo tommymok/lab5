@@ -1,0 +1,4 @@
+this hugeint is using array ,class to make it,put all numbers in different places,make sure each array places got one number,so we can store all the numbers
+to add the number or sub the numbers,it also do it inside the array,whan both number add is more that 10,than put one to the next places (進位).
+same as add,when the number is not enough to sub the other number take 1 from the the back and add it to 10 ,let the number can sub it
+thats the progame how it works
